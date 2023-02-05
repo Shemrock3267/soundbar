@@ -24,6 +24,7 @@ h1 {
   padding: 2em;
   grid-gap: 1em;
   font-family: 'Roboto', monospace;
+  justify-content: center;
 }
 
 .btn {
